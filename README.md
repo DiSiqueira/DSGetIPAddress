@@ -2,6 +2,6 @@
 
 Simple program to get the IP address using the Xamarin Forms
 
-![](https://i.imgur.com/ivlBbyt.jpg)
-
 Link to the original [tutorial](https://www.xamarinbrasil.com.br/disiqueira/xamarin/endereco-de-ip-com-o-xamarin-forms/)
+
+![](https://i.imgur.com/ivlBbyt.jpg)
